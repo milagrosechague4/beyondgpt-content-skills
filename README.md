@@ -92,7 +92,7 @@ Sin conexión a datos externos, sin APIs adicionales. Funcionan con tu CLAUDE.md
 
 El sistema completo — conectado a performance data, Airtable, Meta API, análisis de competidores en tiempo real — está en **BeyondGPT School**.
 
-→ [Lista de espera BeyondGPT School](#) *(agregar link)*
+→ [Anotate en la lista de espera de BeyondGPT School](https://app.youform.com/forms/ipd6vu1h)
 
 ---
 
